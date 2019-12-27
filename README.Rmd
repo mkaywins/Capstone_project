@@ -15,6 +15,7 @@ knitr::opts_chunk$set(
 # Capstone
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/mkaywins/Capstone_project.svg?branch=master)](https://travis-ci.org/mkaywins/Capstone_project)
 <!-- badges: end -->
 
 This package provides functions to work with NOAA earthquake data and provides visualization methods.
