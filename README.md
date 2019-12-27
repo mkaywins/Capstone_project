@@ -4,7 +4,8 @@ Capstone
 ========
 
 <!-- badges: start -->
-<!-- badges: end -->
+[![Travis build status](https://travis-ci.org/mkaywins/Capstone_project.svg?branch=master)](https://travis-ci.org/mkaywins/Capstone_project) <!-- badges: end -->
+
 This package provides functions to work with NOAA earthquake data and provides visualization methods.
 
 Installation
@@ -15,7 +16,7 @@ For the installation of this package one first has to download the `devtools` pa
 ``` r
 #install_github("mkaywins/Capstone", build_vignettes = TRUE)
 
-#library("Capstone")
+# library("Capstone")
 ```
 
 Introduction
