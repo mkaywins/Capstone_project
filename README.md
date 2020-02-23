@@ -1,6 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-Capstone
+Coursera Capstone Project - Mastering Software Development in R
 ========
 
 <!-- badges: start -->
